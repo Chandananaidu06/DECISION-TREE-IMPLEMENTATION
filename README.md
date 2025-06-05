@@ -37,10 +37,8 @@ YouTube was a key resource, providing visual and intuitive explanations of decis
 
 Video-based learning significantly enhanced the conceptual clarity, especially when visualizing how a decision tree splits data at each level. Some videos also demonstrated how to build decision trees manually and compare the results with automated methods like scikit-learn, which was useful for validating the custom implementation.
 
-AI-Powered Tools (e.g., ChatGPT)
-To complement YouTube learning, AI-based tools like ChatGPT were used to gain deeper insights, resolve doubts, and debug the implementation. ChatGPT was particularly helpful in:
-
-Explaining tricky mathematical formulas and edge cases.
+AI-Powered Tools (e.g., ChatGPT,copilot,gemini)
+To complement YouTube learning, AI-based tools like ChatGPT were used to gain deeper insights, resolve doubts, and debug the implementation. They were particularly helpful in:
 
 Translating pseudocode into working Python code.
 
