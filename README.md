@@ -51,6 +51,9 @@ This AI support acted like a personal tutor available 24/7, bridging the gap bet
 Other Online References
 Various articles and documentation from platforms like GeeksforGeeks, Towards Data Science, and Scikit-learn were referred to for alternative approaches and to compare implementations. These resources offered different perspectives and helped improve the robustness of the code.
 
+#OUTPUT OF THE TASK
+
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/2a21a648-ec46-4812-873a-8dc512024f4b" />
 
 
 
