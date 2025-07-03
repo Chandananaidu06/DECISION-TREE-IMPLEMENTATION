@@ -121,3 +121,7 @@ accuracy                           1.00        30
 macro avg 1.00 1.00 1.00 30
 
 weighted avg 1.00 1.00 1.00 30
+
+![Image](https://github.com/user-attachments/assets/577c5bd9-ae96-42a0-872d-6434cda5ebed)
+
+![Image](https://github.com/user-attachments/assets/556d4542-4351-4eea-9253-a0d1b62251a0)
